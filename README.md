@@ -5,10 +5,13 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Multi-Channel-Marketing-Orchestration/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Multi-Channel-Marketing-Orchestration?style=social" alt="GitHub stars"></a>
   <a href="https://github.com/ishandutta2007/Awesome-Multi-Channel-Marketing-Orchestration/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Multi-Channel-Marketing-Orchestration?style=social" alt="GitHub forks"></a>
-  <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome"></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-CC0_1.0-blue.svg" alt="License: CC0-1.0"></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
 
 > 🌟 **A definitive, SEO-curated index of top Multi-Channel Marketing Orchestration (MMH) platforms** — comparing enterprise SaaS leaders and cutting-edge open-source customer journey automation engines across Email, SMS, Web/Mobile Push, WhatsApp, RCS, In-App messaging, and Agentic AI workflows.
@@ -28,6 +31,8 @@
   - [🔍 Deep-Dive: Open-Source Solutions](#-deep-dive-open-source-solutions)
 - [🥊 Feature & Architecture Matrix](#-feature--architecture-matrix)
 - [💡 Selection Guide: Choosing the Right Engine](#-selection-guide-choosing-the-right-engine)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [⭐ Star History](#-star-history)
 - [🤝 Contributing](#-contributing)
 - [📄 License](#-license)
 
@@ -244,6 +249,27 @@ flowchart TD
     OSS -->|"AI-Native & Durable DAG"| Helio["Helio (Temporal + MCP)"]
     OSS -->|"E-Commerce Personalization"| Bloom["Bloomreach (Cloud)"]
 ```
+
+---
+
+## 💖 Support & Sponsorship
+
+Thank you so much for using and exploring **Awesome Multi-Channel Marketing Orchestration**! 🌟
+
+If this project helps you discover the right tools, build better customer journeys, or stay ahead of marketing architecture trends, please consider supporting its ongoing maintenance and curation:
+
+- ⭐ **Star this repository** to help others discover it.
+- 🍴 **Fork and contribute** your favorite tools and platforms.
+- 📢 **Share it** on Twitter/X, LinkedIn, Discord, and Reddit.
+- ☕ **Buy me a coffee / Sponsor**: Support ongoing maintenance directly via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
+
+Your support keeps this repository up to date, comprehensive, and valuable for everyone in the community!
+
+---
+
+## ⭐ Star History
+
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Multi-Channel-Marketing-Orchestration&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Multi-Channel-Marketing-Orchestration&type=date&legend=top-left)
 
 ---
 
